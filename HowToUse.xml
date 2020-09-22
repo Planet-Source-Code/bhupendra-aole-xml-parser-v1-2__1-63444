@@ -1,0 +1,10 @@
+<CodeCollector>This is the 'How to Use' help file for Code Collector.
+Click on the topic to view its contents.
+
+There is another way to open xml files:
+Right click on the xml file in the explorer, click 'Open With...' and select this program.<Nodes>There is only one root node (eg. 'CodeCollector' node on the left hand pane).
+You can add any no. of nested nodes inside it.<New>To add a new child node right click on the node and click 'Add Child'.
+Node names cannot contain special characters.
+Spaces in name will be converted into '_' character.</New><Delete>To delete a node again right click on the node and select Delete.
+NOTE: Deleting a node will also delete its sub nodes and corresponding text.</Delete><Text>To add text to a node, just select the node and start writing text in this pane.</Text><Rename>You can rename the nodes by directly editing in the treeview just like Explorer.</Rename><Drag_Drop>Click a node and drag it to a new node. The dragged node will became the child node of the destination node.</Drag_Drop></Nodes><TextPane>This is the TextPane where u can write/change text corresponding to the Selected node.<Font>To Change Font of TextPane click menu: Tools&gt;Font.
+Font setting are saved and u'll have the same settings u worked with last time.</Font></TextPane><XML_Files>Click on File&gt;New/Open to open an xml file in new window.<Close>If u click on close the current active window will be closed.</Close></XML_Files></CodeCollector>
